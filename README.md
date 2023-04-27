@@ -1,1 +1,23 @@
-Road Health Reporting project This project Contains Two versions
+# For Project Version 1
+
+
+
+# For Project Version 2
+Sem-8 Github Repository
+
+Python v3.9.x or lower required
+
+Install `requirements.txt` : 
+```
+python -m pip install -r requirements.txt
+```
+
+Run Application : 
+```
+py app.py
+```
+
+By default application runs on : 
+```
+localhost:5000
+```
