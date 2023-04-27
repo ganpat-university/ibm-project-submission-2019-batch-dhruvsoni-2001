@@ -3,7 +3,6 @@
 
 
 # For Project Version 2
-Sem-8 Github Repository
 
 Python v3.9.x or lower required
 
